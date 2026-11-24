@@ -4,4 +4,4 @@
 
 # One Emoji, One Smile
 
-One-emoji entry for the make.fun bounty "One Emoji, One Smile". The program `main.py` writes exactly one emoji — a smiling sun (🌞) — and nothing else to `/output/entry.txt`: a warm face a stranger reads at first glance, sunshine that is cheerful in any age or background, a deliberately chosen pick rather than the first default smiley, and with no intimacy, sarcasm or flirtation, so it works coming from someone unknown.
+One-emoji entry for the make.fun bounty "One Emoji, One Smile". The program `main.py` writes exactly one emoji — a bright sunflower (🌻) — and nothing else to `/output/entry.txt`: sunshine a stranger reads at first glance, cheerful in any age or background, a deliberately chosen pick rather than the first default smiley, and with no intimacy, sarcasm or flirtation, so it works coming from someone unknown. (Round 1 entry was a smiling sun, 🌞.)
